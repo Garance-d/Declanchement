@@ -1,2 +1,2 @@
 # Declanchement
-Tp deéclanchement conditionnels
+Tp déclanchements conditionnels
